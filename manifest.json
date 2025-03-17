@@ -1,0 +1,42 @@
+{
+  "description": "MacOS inspired Mojave Light theme.",
+  "homepage_url": "https://github.com/karanvirheer/Firefox-Mojave-Light-Theme",
+  "manifest_version": 2,
+  "name": "MacOS Mojave Light Theme",
+  "version": "1.0",
+  "theme": {
+    "images": {
+      "theme_frame": "mojave_day.png"
+    },
+    "colors": {
+      "button_background_hover": "#c5a675",
+      "icons": "#3E2F2F",
+      "icons_attention": "#FF0",
+      "bookmark_text": "#FFFF",
+      "tab_background_text": "#F5F5F5",
+      "tab_loading": "#F5F5F5",
+      "tab_selected": "#8a633a",
+      "popup": "#8a633a",
+      "popup_highlight": "#8a633a",
+      "popup_highlight_text": "#F5F5F5",
+      "popup_text": "#F5F5F5",
+      "popup_border": "#F5F5F5",
+      "toolbar": [0, 0, 0, 0],
+      "toolbar_field_text": "#F5F5F5",
+      "toolbar_field_text_focus": "#F5F5F5",
+      "toolbar_field": "#dbcebe",
+      "toolbar_field_border": "#c89e67",
+      "toolbar_field_border_focus": "#F5F5F5",
+      "toolbar_field_focus": "#dbcebe",
+      "toolbar_field_highlight": "#F5F5F5",
+      "toolbar_field_highlight_text": "#8a633a",
+      "sidebar": "#8a633a",
+      "sidebar_border": "#F5F5F5",
+      "sidebar_text": "#F5F5F5",
+      "sidebar_highlight": "#c89e67",
+      "sidebar_highlight_text": "#F5F5F5",
+      "ntp_background": "#8a633a",
+      "ntp_card_background": "#dbcebe"
+    }
+  }
+}

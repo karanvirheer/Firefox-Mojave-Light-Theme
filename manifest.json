@@ -6,7 +6,7 @@
   "version": "1.0",
   "theme": {
     "images": {
-      "theme_frame": "mojave_day.png"
+      "theme_frame": "mojave_day.svg"
     },
     "colors": {
       "button_background_hover": "#c5a675",

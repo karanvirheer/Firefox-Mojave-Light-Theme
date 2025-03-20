@@ -2,7 +2,7 @@
 <p align="center">
   <h1 align="center">Mojave Light Theme</h3>
   <a href="https://github.com/karanvirheer/Recyclops">
-    <img src="mojave_light_README.png" alt="Logo">
+    <img src="mojave_day_README.png" alt="Logo">
   </a>
 
   <p align="center">
